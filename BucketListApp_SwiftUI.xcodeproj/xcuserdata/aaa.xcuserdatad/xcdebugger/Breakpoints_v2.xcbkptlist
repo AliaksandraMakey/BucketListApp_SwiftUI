@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A21343FF-B5DC-411C-AEB0-A72E1CEB90A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BucketListApp_SwiftUI/View/TaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TaskView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - ab64ce93ef35d840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.getter : BucketListApp_SwiftUI.BucketItem"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 74810720eb9c3854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.setter : BucketListApp_SwiftUI.BucketItem"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 5fae60fd7bd57043"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.modify : BucketListApp_SwiftUI.BucketItem"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 1917ff2c8290c762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.modify : BucketListApp_SwiftUI.BucketItem with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 4e53c3c428723710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.$nameTask.getter : SwiftUI.Binding&lt;BucketListApp_SwiftUI.BucketItem&gt;"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 9513e177c59797e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.getter : Swift.String"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 8945a050cebee7f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.setter : Swift.String"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - ac4445806866c3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.modify : Swift.String"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - fc7e7d6f9bea5df6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.nameTask.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "4DAD46C5-8F7D-4DC0-B4F8-4CA835BA9BA4 - 470f60a7baf733ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.$nameTask.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E489544E-A15D-48ED-AC84-29AF9F275D98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BucketListApp_SwiftUI/View/TaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(nameTask:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E489544E-A15D-48ED-AC84-29AF9F275D98 - 379452180b96164a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.init(nameTask: SwiftUI.Binding&lt;BucketListApp_SwiftUI.BucketItem&gt;) -&gt; BucketListApp_SwiftUI.TaskView"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "E489544E-A15D-48ED-AC84-29AF9F275D98 - ed670ff2b5c5cca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BucketListApp_SwiftUI.TaskView.init(nameTask: SwiftUI.Binding&lt;Swift.String&gt;) -&gt; BucketListApp_SwiftUI.TaskView"
+                  moduleName = "BucketListApp_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaa/Projects/Main_Project/BucketListApp_SwiftUI/BucketListApp_SwiftUI/View/TaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

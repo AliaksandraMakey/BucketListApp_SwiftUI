@@ -8,33 +8,35 @@
 import SwiftUI
 
 struct BucketListView: View {
-    @State private var bucketList: [String] = ["Traning", "Hometasks", "Work"]
-    @State private var newTask = ""
-    @State var chooseTask = ""
+    @State private var bucketList = BucketItem.examples
+    @State private var newItem = ""
+    @State var chooseItem = ""
     var body: some View {
         NavigationStack {
             VStack {
                 HStack {
-                    TextField("New bucket task", text: $newTask)
+                    TextField("New bucket task", text: $newItem)
                         .textFieldStyle(.roundedBorder)
                     Button {
-                        bucketList.append(newTask)
-                        newTask = ""
+                        let newBucketItem = BucketItem(name: newItem)
+                        bucketList.append(newBucketItem)
+                        newItem = ""
                         
                     } label: {
                         Image(systemName: "plus.circle.fill")
                         
                     }
-                    .disabled(newTask.isEmpty)
+                    .disabled(newItem.isEmpty)
                 }
                 .padding()
                 List {
-                    ForEach(bucketList, id: \.self) { task in
-                        NavigationLink(destination:  TaskView(task: task), label: {
-                            Text(task)
+                    ForEach($bucketList) { $item in
+                        NavigationLink(destination:  TaskView(nameTask: $item.name),
+                                       label: {
+                            Text(item.name)
                         })
-                        //                            Text(task)
                     }
+              
                     .onDelete { indexSet in
                         bucketList.remove(atOffsets: indexSet)
                     }
@@ -45,11 +47,6 @@ struct BucketListView: View {
             .listStyle(.plain)
         }
         .navigationTitle("Bucket List")
-        
-//        .navigationDestination(for: String.self) { task in
-//            //                self.chooseTask = task
-//            TaskView(task: task)
-//        }
     }
 }
 
